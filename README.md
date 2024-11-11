@@ -9,9 +9,10 @@ Microsoft MakeCode Arcade Programming Software
 Python Programming Language 
 Computer 
 Mobile Phone
+Note: external code libraries are not needed as MakeCode Arcade contains internal libraries e.g. Inputs, Loops and some Advanced Extensions.
 
 # Features 
-The aim of the game is to advance through each level by Catching Z's (the rewards) and avoiding enemies (sleep inhibitors) to reach the bed at the end of each level, signifying a good night sleep.
+The aim of the game is to advance through each level by Catching Z's (the rewards) and avoiding enemies (sleep inhibitors) to reach the bed at the end of each level, signifying a "good night sleep".
 In order to achieve this, the main features that I make use of are functions, conditional statements, boolean logics and others. 
 
 # Set Up
@@ -103,7 +104,7 @@ The above lines of code animate my sprite depending on the direction of their mo
 
 
 # Project Status
-Stil in progress
+Stil in progress.
 
 # Room for Improvement
 I would try to implement more stretch goals in future.
